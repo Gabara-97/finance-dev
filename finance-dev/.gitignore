@@ -1,0 +1,15 @@
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+__pycache__/
+*.pyc
+.venv/
+venv/
+.pytest_cache/
+node_modules/
+.vercel/
+.DS_Store
+.vscode/
+.idea/
